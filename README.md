@@ -69,7 +69,7 @@ The layout is built using the Bootstrap Grid System to ensure responsiveness acr
    C:\xampp\htdocs\
 2. Start Apache server from XAMPP Control Panel.
 3. Open browser and navigate to:
-   http://localhost/studentname_webdesign/index.html
+   http://localhost/folder_name/index.html
 4. Verify all pages and form validation are working correctly.
 
 
